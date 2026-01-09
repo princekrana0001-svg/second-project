@@ -32,7 +32,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
+git clone https://github.com/princekrana0001-svg/second-project.git
 Install required libraries:
 
 Bash
