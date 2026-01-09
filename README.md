@@ -1,4 +1,4 @@
-# second-project
+# First Project
 Voice Assistant 
 Jarvis A.I. Voice Assistant
 Jarvis is a Python-based virtual assistant inspired by Iron Man's AI. It uses speech recognition to take commands, a text-to-speech engine to respond, and the OpenAI GPT-3.5-Turbo model to handle complex conversations and generate intelligent content.
